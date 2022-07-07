@@ -468,12 +468,3 @@ st.markdown('**Authors: Luis Alejandro Taborda Andrade (latabordaa@unal.edu.co),
 image = Image.open('logo_rtb.png')
 st.image(image)
 
-image = Image.open('cirad_logo.png')
-st.image(image)
-
-image = Image.open('CIAT_logo.png')
-st.image(image)
-
-image = Image.open('IITA_logo.png')
-st.image(image)
-
