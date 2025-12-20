@@ -462,7 +462,7 @@ If i) the cash flow is positive and increasing over time, ii) the profitability 
 """)
 
 st.markdown('*Copyright (C) 2021 CIRAD & CIAT*')
-st.markdown('**Authors: Luis Alejandro Taborda Andrade (latabordaa@unal.edu.co), Thierry Tran (thierry.tran@cirad.fr)**')
+#st.markdown('**Authors: Luis Alejandro Taborda Andrade (latabordaa@unal.edu.co), Thierry Tran (thierry.tran@cirad.fr)**')
 
 
 image = Image.open('logo_rtb.png')
