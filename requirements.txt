@@ -1,6 +1,6 @@
 numpy_financial==1.0.0
 pandas==1.4.2
 Pillow==10.3.0
-streamlit==1.37.0
+streamlit==1.54.0
 pandas==1.4.2
 numpy==1.22.0
