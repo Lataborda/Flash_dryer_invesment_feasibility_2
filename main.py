@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd 
 from PIL import Image
-import numpy_financial as npf
+import numpy-financial as npf
 
 
 image = Image.open('new_logo.png')
